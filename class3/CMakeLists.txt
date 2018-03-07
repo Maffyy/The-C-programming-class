@@ -3,4 +3,4 @@ project(class3 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(class3 main.c)
+add_executable(class3 first.c cmake-build-debug/second.c)

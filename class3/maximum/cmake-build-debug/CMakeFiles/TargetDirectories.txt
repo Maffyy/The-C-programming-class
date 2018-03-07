@@ -1,0 +1,3 @@
+/home/muffy/The-C-programming-class/class3/maximum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/muffy/The-C-programming-class/class3/maximum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/muffy/The-C-programming-class/class3/maximum/cmake-build-debug/CMakeFiles/maximum.dir
